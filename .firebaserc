@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "webes24-5dc3d": {
+      "hosting": {
+        "webkeret-beadando-vegleges": [
+          "webes24-5dc3d"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "webes24-5dc3d"
+  }
+}

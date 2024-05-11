@@ -1,0 +1,9 @@
+{
+  "hosting": [
+    {
+      "target": "webkeret-beadando-vegleges",
+      "public":"dist/webkeret-beadando-vegleges",
+      "frameworksBackend": {}
+    }
+  ]
+}
